@@ -1,0 +1,35 @@
+.box1 {
+    color: white;
+    height: 30% ;
+    width : 70%;
+    text-align: left;
+    padding: 10px 10px 10px 10px;
+    font-size: large;
+    background-color: red;
+}
+ 
+.box2 {
+
+    color: white;
+    height: 30% ;
+    width : 70%;
+    text-align: left;
+    padding: 10px 10px 10px 10px;
+    font-size: large;
+    background-color: rgba(255, 0, 0, 0.507);
+
+}
+
+.box3 {
+
+    color: white;
+    height: 30% ;
+    width : 70%;
+    text-align: left;
+    padding: 10px 10px 10px 10px;
+    font-size: large;
+    background-color: rgba(255, 0, 0, 0.214);
+
+
+
+}
